@@ -1,1 +1,1 @@
-# naive-coding-potato
+# Naive Coding Potato
